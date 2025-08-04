@@ -52,7 +52,7 @@ There is a quick guide on how to customize this theme further in the [wiki](http
 
 ---
 
-<img src="./wiki/preview.png" width="100%" />
+<img src="https://github.com/uiriansan/LainGrubTheme/raw/main/wiki/preview.png" width="100%" />
 
 This theme was designed for a 1920x1080 display. Refer to the [wiki](https://github.com/uiriansan/LainGrubTheme/wiki/Customizing#resolution) to see how to customize it for a different resolution.
 
