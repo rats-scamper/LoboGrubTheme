@@ -1,0 +1,48 @@
+# main options
+title-text: ""
+desktop-image: "assets/background.png"
+desktop-color: "#000000"
+terminal-font: "Terminus Regular 16"
+terminal-box: "terminal_box_*.png"
+terminal-left: "0"
+terminal-top: "0"
+terminal-width: "100%"
+terminal-height: "100%"
+terminal-border: "0"
+
+# menu
++ boot_menu {
+    left = 112
+    top = 766
+    width = 800
+    height = 178
+    item_font = "Railway Regular 30"
+    item_color = "#000000"
+    selected_item_color = "#9D3F5C"
+    icon_width = 60
+    icon_height = 60
+    item_icon_space = 8
+    item_height = 40
+    item_padding = 0
+    item_spacing = 6
+}
+
+# keys
++ image {
+	left = 1534
+	top = 1026
+	width = 349
+	height = 30
+	file = "assets/keys.png"
+}
+
+# countdown
++ label {
+    left = 10
+    top = 10
+    align = "left"
+    id = "__timeout__"
+    text = "Resuming Scenario: The Seed of Light in %d Seconds..."
+    color = "#CCCCCC"
+    font = "Norwester Regular 16"
+}
