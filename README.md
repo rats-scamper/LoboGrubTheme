@@ -1,7 +1,7 @@
 # Lobotomy Corporation Menu-style Grub Theme
 ##### This theme is a heavily modified version of [LainGrubTheme by uiriansan.](https://github.com/uiriansan/LainGrubTheme)
 
-<img src="./assets/preview.png" width="100%" />
+<img src="/assets/preview.png" width="100%" />
 
 The instructions below are also copied from the original with adjustments:
 ## Installation
