@@ -1,7 +1,7 @@
 # Lobotomy Corporation Menu-style Grub Theme
 ##### This theme is a heavily modified version of [LainGrubTheme by uiriansan.](https://github.com/uiriansan/LainGrubTheme)
 
-<img src="/assets/preview.png" width="100%" />
+<img src="https://github.com/rats-scamper/LoboGrubTheme/main/assets/preview.png" width="100%" />
 
 The instructions below are also copied from the original with adjustments:
 ## Installation
@@ -52,7 +52,7 @@ There is a quick guide on how to customize this theme further in the [wiki](http
 
 ---
 
-<img src="./wiki/preview.png" width="100%" />
+<img src="https://github.com/uiriansan/LainGrubTheme/wiki/preview.png" width="100%" />
 
 This theme was designed for a 1920x1080 display. Refer to the [wiki](https://github.com/uiriansan/LainGrubTheme/wiki/Customizing#resolution) to see how to customize it for a different resolution.
 
